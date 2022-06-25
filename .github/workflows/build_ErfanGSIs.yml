@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://static.c-t.work/QN_HZ_cowtransfer-file-dea3e1e7-f122-4268-b730-964e4c2915db%252Fexthm-12.0-20220118-UNOFFICIAL-SNAPSHOT-joan-Vanilla.zip?t-s=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJndWlkK3RpbWVzdGFtcCI6Imlsb3ZlY293dHJhbnNmZXIyMDIxXzE2NTYyMDAwMTQ3ODMifQ.h72bSxuZg6unYFGrhevckLGNXZ3XxBD8gbyxXV7i6CI&t-c=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJndWlkK3RpbWVzdGFtcCI6IjIwMjJ8NnwyNnw3In0.xfezvqLQXiodG9mpQMoWf_HHWEbFuWS9bdHu5Qti2uo&user=&ut=&rt=0&rk=ff_55b5b772-1ff3-4690-b2cc-d867ab72aa09&owner=516831dc-a7bc-418b-b8ce-8a2f7a0890da&tid=&batch=1656200014810&attname=exthm-12.0-20220118-UNOFFICIAL-SNAPSHOT-joan-Vanilla.zip
-  ROM_NAME: AOSP
+  ROM_NAME: AOSP 
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
